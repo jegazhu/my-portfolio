@@ -29,6 +29,6 @@ export const projects = [
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
     image: "./project-4.gif",
-    link: "https://pythonbootcamp.com",
+    link: "https://www.freecodecamp.org/news/backend-web-development-with-python-full-course/",
   },
 ];
